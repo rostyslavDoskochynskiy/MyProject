@@ -1,0 +1,100 @@
+{
+  "phone": [
+    {
+      "id": 1,
+      "name": "Xiaomi Mi 11",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/x/i/xiaomi_mi_11_horizon_blue_1_1.jpg",
+      "Prise": 26000,
+      "category": 1,
+      "Popular": 10
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/s/m/sm-g998_s21ultra_phantom_black_back_201110_.jpg",
+      "Prise": 25000,
+      "category": 2,
+      "Popular": 9
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/i/p/iphone-12-pro-max-blue-hero_4.jpg",
+      "Prise": 26000,
+      "category": 1,
+      "Popular": 8
+    },
+    {
+      "id": 4,
+      "name": "ZTE BLADE A7S ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/z/t/zte_blade_a7s_11.jpg",
+      "Prise": 12000,
+      "category": 1,
+      "Popular": 7
+    },
+    {
+      "id": 5,
+      "name": "Motorola G9  ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/2/0/2020_cebu_basicpack_jasper_front_back_side.jpg",
+      "Prise": 15000,
+      "category": 1,
+      "Popular": 6
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Poco X3",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/j/2/j20c-grey-__result_2_1.jpg",
+      "Prise": 8000,
+      "category": 1,
+      "Popular": 5
+    },
+    {
+      "id": 7,
+      "name": "vivo Y1S ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/v/i/vivo_y1s_7.jpg",
+      "Prise": 7000,
+      "category": 3,
+      "Popular": 4
+    },
+    {
+      "id": 8,
+      "name": "Nokia 5.4 ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/3/4/345345345345_1.jpg",
+      "Prise": 10000,
+      "category": 1,
+      "Popular": 3
+    },
+    {
+      "id": 9,
+      "name": "Nubia Play  ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/n/u/nubia_play_5g_5.jpg",
+      "Prise": 25000,
+      "category": 4,
+      "Popular": 2
+    },
+    {
+      "id": 10,
+      "name": "Sigma X-treme   ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/p/q/pq20_orange_flat2_1000h1200-1000x1200_2.jpg",
+      "Prise": 7500,
+      "category": 1,
+      "Popular": 1
+    },
+    {
+      "id": 11,
+      "name": "Huawei Y6P ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/0/_/0_39_21.jpg",
+      "Prise": 5500,
+      "category": 4,
+      "Popular": 11
+    },
+    {
+      "id": 12,
+      "name": "Huawei Y6P ",
+      "imageurl": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/0/_/0_39_21.jpg",
+      "Prise": 5500,
+      "category": 1,
+      "Popular": 12
+    }
+  ]
+}

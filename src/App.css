@@ -1,10 +1,83 @@
 .App {
   text-align: center;
 }
+.sort > li {
+  list-style: none;
+  margin-right: 50px;
+}
+
+.sort {
+  padding-left: 200px;
+}
+.price {
+  padding-right: 50px;
+}
+.popup {
+  content: "";
+  position: absolute;
+  top: 35px;
+  left: 40px;
+  margin-left: -5px;
+}
+.popup > li {
+  cursor: pointer;
+}
+.loader {
+  margin: 300px 0 0 45%;
+}
+.pagePhones {
+  flex-wrap: wrap;
+}
+img {
+  max-width: 150px;
+}
+.dropdown-toggle::after {
+  transform: rotate(180deg);
+}
+
+.phoneItem {
+  border-right: 1px solid silver;
+  border-bottom: 1px solid silver;
+  max-width: 600px;
+  margin-right: 40px;
+}
+.phoneItem:hover {
+  transform: scale(1.2);
+}
+
+.questBlock {
+  display: flex;
+  justify-content: center;
+}
+.header {
+  margin-bottom: 10px;
+}
+
+.slider {
+  max-height: 400px;
+  max-width: 100%;
+}
+.sort {
+  justify-content: center;
+  display: flex;
+}
+.category {
+  display: flex;
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.wrapper {
+  padding-top: 100px;
+  justify-content: center;
+  text-align: center;
+}
+@media screen and (max-width: 991px) {
+  sort {
+    display: block;
+  }
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -12,27 +85,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (max-width: 992px) {
+  .category {
+    display: block;
   }
-  to {
-    transform: rotate(360deg);
+  .sort {
+    display: block;
+  }
+  .dd {
+    padding-left: 200px;
   }
 }
