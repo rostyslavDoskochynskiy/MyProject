@@ -54,6 +54,7 @@ const App = () => {
   const filterPhones = phones.filter((obj) => {
     return obj.name.toLowerCase().indexOf(serch.toLowerCase()) > -1;
   });
+  console.log("hello")
 
   return (
     <div>
